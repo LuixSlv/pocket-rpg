@@ -1,0 +1,14 @@
+body {
+    background: url('sprites/background.jpg') no-repeat center center fixed;
+    background-size: cover;
+    text-align: center;
+    font-family: 'Pokemon Solid', sans-serif;
+}
+
+button {
+    display: block;
+    margin: 10px auto;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+}
