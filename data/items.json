@@ -1,0 +1,36 @@
+[
+    {
+        "nome": "Pokébola",
+        "tipo": "Captura",
+        "efeito": "Aumenta chance de captura",
+        "multiplicador": 1.0
+    },
+    {
+        "nome": "Super Pokébola",
+        "tipo": "Captura",
+        "efeito": "Aumenta chance de captura",
+        "multiplicador": 1.5
+    },
+    {
+        "nome": "Poção",
+        "tipo": "Cura",
+        "efeito": "Recupera 20 HP",
+        "cura": 20
+    },
+    {
+        "nome": "Super Poção",
+        "tipo": "Cura",
+        "efeito": "Recupera 50 HP",
+        "cura": 50
+    },
+    {
+        "nome": "Antídoto",
+        "tipo": "Status",
+        "efeito": "Cura envenenamento"
+    },
+    {
+        "nome": "Reviver",
+        "tipo": "Cura",
+        "efeito": "Revive um Pokémon com metade do HP"
+    }
+]
