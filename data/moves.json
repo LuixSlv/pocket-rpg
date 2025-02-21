@@ -1,0 +1,21 @@
+[
+    {
+        "nome": "Tackle",
+        "tipo": "Normal",
+        "poder": 40,
+        "precisao": 100
+    },
+    {
+        "nome": "Ember",
+        "tipo": "Fogo",
+        "poder": 40,
+        "precisao": 100,
+        "efeito": "Queimar"
+    },
+    {
+        "nome": "Water Gun",
+        "tipo": "Água",
+        "poder": 40,
+        "precisao": 100
+    }
+]
