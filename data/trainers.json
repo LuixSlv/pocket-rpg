@@ -1,0 +1,12 @@
+[
+    {
+        "nome": "Gary",
+        "time": ["Charmander"],
+        "nivel": 5
+    },
+    {
+        "nome": "Treinador da Rota 1",
+        "time": ["Pidgey", "Rattata"],
+        "nivel": 3
+    }
+]
