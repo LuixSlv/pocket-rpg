@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Configurações</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="settings.js" defer></script>
+</head>
+<body>
+    <h1>Configurações</h1>
+    
+    <label>Som:
+        <input type="checkbox" id="som" onchange="toggleSom()">
+    </label>
+
+    <label>Idioma:
+        <select id="idioma" onchange="mudarIdioma()">
+            <option value="pt">Português</option>
+            <option value="en">English</option>
+        </select>
+    </label>
+
+    <button onclick="voltar()">Voltar</button>
+</body>
+</html>
