@@ -1,18 +1,22 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="pt">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pokémon RPG</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Pokemon">
     <script src="game.js" defer></script>
+
 </head>
 <body>
-    <div id="tela-inicial">
-        <img src="sprites/logo.png" alt="Pokémon RPG" id="logo">
+    <div class="container">
+        <img src="assets/logo.png" class="logo">
         <button onclick="novoJogo()">Novo Jogo</button>
-        <button onclick="continuarJogo()" id="continuar-btn">Continuar</button>
+        <button onclick="continuarJogo()">Continuar</button>
         <button onclick="abrirConfiguracoes()">Configurações</button>
     </div>
+    <script src="js/index.js"></script>
 </body>
 </html>
+
