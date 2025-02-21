@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Batalha Pokémon Selvagem</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="battle_wild.js" defer></script>
+</head>
+<body>
+    <h1>Batalha Pokémon Selvagem</h1>
+    <div id="batalha">
+        <div id="inimigo">
+            <h2 id="wild-nome"></h2>
+            <img id="wild-img" src="">
+            <p>HP: <span id="wild-hp">100</span></p>
+        </div>
+        <div id="jogador">
+            <h2 id="jogador-nome"></h2>
+            <img id="jogador-img" src="">
+            <p>HP: <span id="jogador-hp">100</span></p>
+        </div>
+        <div id="opcoes">
+            <button onclick="atacar()">Atacar</button>
+            <button onclick="tentarCapturar()">Capturar</button>
+            <button onclick="fugir()">Fugir</button>
+        </div>
+    </div>
+</body>
+</html>
