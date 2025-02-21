@@ -1,14 +1,16 @@
 body {
+    font-family: 'Pokemon', sans-serif;
     background: url('sprites/background.jpg') no-repeat center center fixed;
-    background-size: cover;
     text-align: center;
-    font-family: 'Pokemon Solid', sans-serif;
+}
+
+.logo {
+    width: 200px;
 }
 
 button {
-    display: block;
-    margin: 10px auto;
+    font-size: 20px;
     padding: 10px 20px;
-    font-size: 18px;
+    margin: 10px;
     cursor: pointer;
 }
