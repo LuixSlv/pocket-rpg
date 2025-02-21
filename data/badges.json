@@ -1,0 +1,20 @@
+[
+    {
+        "nome": "Insígnia de Pedra",
+        "lider": "Brock",
+        "efeito": "Aumenta defesa dos Pokémon",
+        "cidade": "Pewter"
+    },
+    {
+        "nome": "Insígnia da Cascata",
+        "lider": "Misty",
+        "efeito": "Aumenta velocidade dos Pokémon",
+        "cidade": "Cerulean"
+    },
+    {
+        "nome": "Insígnia do Trovão",
+        "lider": "Lt. Surge",
+        "efeito": "Aumenta ataque dos Pokémon",
+        "cidade": "Vermilion"
+    }
+]
