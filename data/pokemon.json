@@ -1,0 +1,29 @@
+[
+    {
+        "nome": "Bulbasaur",
+        "tipo": ["Grama", "Venenoso"],
+        "hp": 45,
+        "ataque": 49,
+        "defesa": 49,
+        "velocidade": 45,
+        "gif": "sprites/bulbasaur.gif"
+    },
+    {
+        "nome": "Charmander",
+        "tipo": ["Fogo"],
+        "hp": 39,
+        "ataque": 52,
+        "defesa": 43,
+        "velocidade": 65,
+        "gif": "sprites/charmander.gif"
+    },
+    {
+        "nome": "Squirtle",
+        "tipo": ["Água"],
+        "hp": 44,
+        "ataque": 48,
+        "defesa": 65,
+        "velocidade": 43,
+        "gif": "sprites/squirtle.gif"
+    }
+]
