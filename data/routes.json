@@ -1,0 +1,23 @@
+[
+    {
+        "nome": "Rota 1",
+        "descricao": "Uma estrada tranquila que liga Pallet a Viridian.",
+        "pokemon_aparecem": [
+            {"nome": "Pidgey", "nivel_min": 2, "nivel_max": 5, "chance": 50},
+            {"nome": "Rattata", "nivel_min": 2, "nivel_max": 5, "chance": 50}
+        ],
+        "taxa_encontro": 30,
+        "taxa_item": 10
+    },
+    {
+        "nome": "Rota 2",
+        "descricao": "Um caminho arborizado perto da Floresta de Viridian.",
+        "pokemon_aparecem": [
+            {"nome": "Caterpie", "nivel_min": 3, "nivel_max": 6, "chance": 40},
+            {"nome": "Weedle", "nivel_min": 3, "nivel_max": 6, "chance": 40},
+            {"nome": "Pidgey", "nivel_min": 4, "nivel_max": 7, "chance": 20}
+        ],
+        "taxa_encontro": 35,
+        "taxa_item": 15
+    }
+]
